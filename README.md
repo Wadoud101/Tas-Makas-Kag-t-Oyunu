@@ -1,4 +1,4 @@
-# Tas-Makas-Kag-t-Oyunu
+Tas-Makas-Kağıt-Oyunu
 Bu oyun "Ben" ve "Sen" arasındadır,
 
 Bu oyunda bir bug vardır,
